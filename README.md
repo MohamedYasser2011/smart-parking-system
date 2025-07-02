@@ -1,7 +1,7 @@
 # 🚗 Smart Parking System
 
 
-![smart_parking img (2)](https://github.com/user-attachments/assets/cdd77a85-6671-4e9b-bf26-3fe5e67c8a09)
+![smart_parking img (2)](https://github.com/user-attachments/assets/db573ff3-d0e8-4833-b583-097c2823ec07)
 
 
 ## 📋 Project Description
