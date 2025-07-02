@@ -1,5 +1,9 @@
 # 🚗 Smart Parking System
 
+
+![WhatsApp Image 2025-07-02 at 07 18 51_8b6e22b3](https://github.com/user-attachments/assets/f72637fb-b300-4e72-87fd-35154559639c)
+
+
 ## 📋 Project Description
 
 This project is an **automatic smart parking system** using **ultrasonic sensors**, a **servo gate**, LEDs, and an **LCD display**. It checks if cars are present in parking slots and at the entrance gate:
